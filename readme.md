@@ -1,3 +1,5 @@
+https://www.youtube.com/watch?v=QXunBiLq2SM&ab_channel=FernandaKipper%7CDev
+
 # Desafio Back-end PicPay
 
 Primeiramente, obrigado pelo seu interesse em trabalhar na melhor plataforma de pagamentos do mundo!
